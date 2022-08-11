@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "3.1.2"
 
-gem "rails", "~> 6.0.0"
+gem "rails", "~> 7.0.3"
 gem "pg", "< 1" # < 1 for Debian 7 and CentOS 6 builds
 gem "pghero", "2.8.3" # git: "https://github.com/ankane/pghero.git"
 gem "pg_query"
