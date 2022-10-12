@@ -131,7 +131,11 @@ GEM
       webrick
     google-apis-monitoring_v3 (0.33.0)
       google-apis-core (>= 0.7, < 2.a)
+<<<<<<< HEAD
     google-protobuf (3.21.7)
+=======
+    google-protobuf (3.21.5)
+>>>>>>> 981e87c (Version bump to 3.0.1)
     googleauth (1.2.0)
       faraday (>= 0.17.3, < 3.a)
       jwt (>= 1.4, < 3.0)
