@@ -2,12 +2,12 @@ source "https://rubygems.org"
 
 ruby "3.1.4"
 
-gem "rails", "~> 7.0.0"
+gem "rails", "~> 7.0.7"
 gem "sprockets-rails"
 gem "pg"
 gem "pghero", "3.3.3" # also update gemfiles/centos7.gemfile
 gem "pg_query", "~> 2"
-gem "puma"
+gem "puma", "~>6.3.1"
 gem "activerecord-nulldb-adapter", require: false
 gem "tzinfo-data"
 
